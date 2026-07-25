@@ -1,0 +1,6 @@
+@RX.Skinet.API_HostAddress = http://localhost:5137
+
+GET {{RX.Skinet.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

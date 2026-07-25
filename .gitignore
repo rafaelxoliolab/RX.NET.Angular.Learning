@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Skinet/RX.Skinet.API/bin/Debug/net10.0
+/Skinet/RX.Skinet.API/obj
+/Skinet/RX.Skinet.Core/bin/Debug/net10.0
+/Skinet/RX.Skinet.Core/obj
+/Skinet/RX.Skinet.Infrastructure/bin/Debug/net10.0
+/Skinet/RX.Skinet.Infrastructure/obj
+/Skinet/.vs/skinet.slnx/FileContentIndex/2aed3b35-275f-4b5d-a0fe-b8fcd9b40f0e.vsidx
