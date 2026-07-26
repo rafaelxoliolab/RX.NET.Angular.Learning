@@ -26,10 +26,17 @@ $dotnet add reference ../infrastructure
 $dotnet restore
 $dotnet run
 
+$dotnet watch
+
 ```
 
 Adding swagger to .net 10+
 ``` cmd
 dotnet add package Swashbuckle.AspNetCore.SwaggerUI
 
+```
+
+Run Docker 
+```cmd
+docker compose up -d
 ```
