@@ -9,9 +9,11 @@ By Rafael Xolio
 
 ## Create projects
 
-- Open Gitbash
+1. Open Gitbash
 
-``` cmd
+2. Create API .NET Solution
+
+```cmd
 $dotnet --info
 $dotnet -h
 $dotnet new list
@@ -29,6 +31,9 @@ $dotnet run
 $dotnet watch
 
 ```
+<img width="927" height="417" alt="image" src="https://github.com/user-attachments/assets/e508280b-90ed-4dbb-83f2-45ed79c9f5fe" />
+
+
 
 Adding swagger to .net 10+
 ``` cmd
