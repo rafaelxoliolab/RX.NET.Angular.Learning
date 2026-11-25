@@ -6,6 +6,10 @@ By Rafael Xolio
 ## Resources
 - [MDN: JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
+## Setup Environment
+
+- NVM(Node Version Manager) https://www.nvmnode.com/guide/download.html
+- 
 
 ## Create projects
 
@@ -33,6 +37,9 @@ $dotnet watch
 ```
 <img width="927" height="417" alt="image" src="https://github.com/user-attachments/assets/e508280b-90ed-4dbb-83f2-45ed79c9f5fe" />
 
+Adding certificates for hhtps
+$dotnet dev-certs https --trust
+<img width="1070" height="160" alt="image" src="https://github.com/user-attachments/assets/63963adf-2fed-4210-91f4-8196612ec0a8" />
 
 
 Adding swagger to .net 10+
