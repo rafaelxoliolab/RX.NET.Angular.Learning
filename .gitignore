@@ -9,3 +9,10 @@
 /Skinet/RX.Skinet.Infrastructure/bin/Debug/net10.0
 /Skinet/RX.Skinet.Infrastructure/obj
 /Skinet/.vs/skinet.slnx/FileContentIndex/2aed3b35-275f-4b5d-a0fe-b8fcd9b40f0e.vsidx
+*.suo
+/DatingApp/.vs/DatingApp.slnx/FileContentIndex/dd12b5d8-cc9c-4ae7-bfec-73be094d17c0.vsidx
+*.v2
+/DatingApp/RX.DatingApp.Api/obj/Debug/net10.0/rpswa.dswa.cache.json
+/DatingApp/RX.DatingApp.Api/obj/Debug/net10.0/staticwebassets.removed.txt
+/DatingApp/RX.DatingApp.Api/obj
+/DatingApp/RX.DatingApp.Api/bin

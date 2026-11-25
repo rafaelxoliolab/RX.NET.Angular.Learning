@@ -49,3 +49,6 @@ docker compose up -d
 <img width="1612" height="922" alt="image" src="https://github.com/user-attachments/assets/481a16f2-8bc8-4462-b536-01db18473e9d" />
 
 
+```cmd
+docker compose down
+```
