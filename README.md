@@ -45,7 +45,11 @@ $dotnet dev-certs https --trust
 Adding swagger to .net 10+
 ``` cmd
 dotnet add package Swashbuckle.AspNetCore.SwaggerUI
+```
 
+Install EF
+``` cmd
+dotnet tool install -g dotnet-ef
 ```
 
 Run Docker 
